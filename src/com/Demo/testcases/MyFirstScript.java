@@ -58,7 +58,7 @@ public class MyFirstScript {
 		
 		
 		
-		//driver.close();
+		driver.close();
 		
 	
 
